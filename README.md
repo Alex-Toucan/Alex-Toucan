@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Alex Toucan </h2>
+<a href="mailto:support@atproducts.org">support@atproducts.org</a>
+<p> Hello, I'm the founder of AT Products and is currently working with groups such as ProtDos (CodingHome), and The Anti Anime Society.</p>
 
-<!--
-**Alex-Toucan/Alex-Toucan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Toucan&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Toucan&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Toucan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  </center>
