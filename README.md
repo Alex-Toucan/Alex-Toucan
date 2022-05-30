@@ -1,5 +1,5 @@
 <h2> Alex Toucan </h2>
-<a href="mailto:support@atproducts.org">support@atproducts.org</a>
+<a href="mailto:support@atproducts.xyz">support@atproducts.xyz</a>
 <p> Hello, I'm the founder of AT Products and is currently working with groups such as ProtDos (CodingHome), and The Anti Anime Society.</p>
 
 <center>
