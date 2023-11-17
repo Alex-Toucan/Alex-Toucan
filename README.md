@@ -11,7 +11,7 @@
 <h2>Stats</h2>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alex-Toucan&theme=ocean-gradient&hide_border=true&background=45%2C777CEB%2C60B5EB)(https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alex-Toucan&theme=ocean-gradient&hide_border=true&background=45%2C777CEB%2C60B5EB)(https://git.io/streak-stats)]
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Toucan&show_icons=true)
   
