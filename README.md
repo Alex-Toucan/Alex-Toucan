@@ -1,8 +1,11 @@
-<h1> Alex Toucan </h1>
-<h2>Contact Links</h2>
-<p>Discord: <a href="https://discord.com/users/905434578926313512">@alextoucan</a></p>
-<p>Twitter: <a href="https://twitter.com/ATProductsLLC">ATProductsLLC</a></p>
-<p>YouTube: <a href="https://youtube.com/c/AlexToucanAT">Alex Toucan -AT-</a></p>
+<div align="center">
+  <img src="/media/AlexToucan.png" width="85%" alt="Alex Toucan, Founder and CEO of AT Products LLC">
+  <br><br>
+  <a href="https://twitter.com/ATProductsLLC"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://discord.com/users/905434578926313512"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCC98_JoM3ItjJDA-w4o7k_Q"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</div>
+<h2>Additional Contact Links</h2>
 <p>Email: <a href="mailto:support@atproducts.xyz">support@atproducts.xyz</a></p>
 <p>Weather Account: <a href="https://twitter.com/ATPWeather">ATPWeather</a></p>
 <h2>Information</h2>
