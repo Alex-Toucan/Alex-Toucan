@@ -13,8 +13,8 @@
 <p>Email: <a href="mailto:support@atproducts.xyz">support@atproducts.xyz</a></p>
 <p>Weather Account: <a href="https://twitter.com/ATPWeather">ATPWeather</a></p>
 <h2>Information</h2>
-<p> Hello, I'm the founder of <a href="https://atproducts.xyz">AT Products LLC</a> and is currently working with groups such as the <a href="https://discord.gg/pYa87Bhau9">Royal Stack Alliance</a>. </p>
-<p> <a href="https://atproducts.xyz">AT Products LLC</a> is an American-based Informational Technology Company with your solutions to web problems, and we provide computer resources. </p>
+<p> Hello, I'm the founder and owner of <a href="https://atproducts.xyz">AT Products LLC.
+<p> <a href="https://atproducts.xyz">AT Products LLC</a> is an American-based Information Technology Company with solutions to web problems, and we provide computer resources. </p>
 <h2>Stats</h2>
 <div align="center">
 
